@@ -1,3 +1,18 @@
+dependencies:
+
+npm install --save react-elastic-carousel.
+
+npm install --save styled-components.
+
+Know More on:
+
+https://www.npmjs.com/package/react-elastic-carousel
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
