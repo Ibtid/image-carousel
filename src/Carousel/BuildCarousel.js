@@ -10,7 +10,11 @@ const BuildCarousel = () => {
   ];
   return (
     <div>
-      <Carousel breakPoints={breakPoints}>
+      <Carousel
+        breakPoints={breakPoints}
+        enableAutoPlay={true}
+        autoPlaySpeed={4000}
+      >
         <Card number="1" />
         <Card number="2" />
         <Card number="3" />
