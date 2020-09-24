@@ -1,3 +1,10 @@
+dependencies:
+
+npm install --save react-elastic-carousel
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
