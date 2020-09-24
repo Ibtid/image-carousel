@@ -1,7 +1,14 @@
 dependencies:
 
-npm install --save react-elastic-carousel
-npm install --save styled-components
+npm install --save react-elastic-carousel.
+
+npm install --save styled-components.
+
+Know More on:
+
+https://www.npmjs.com/package/react-elastic-carousel
+
+
 
 
 
